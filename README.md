@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **nikolaisumcad@gmail.com**
 
-- 📄 Know about my experiences [https://nsum.netlify.app/NikoSumcad-Resume.pdf](https://nsum.netlify.app/NikoSumcad-Resume.pdf)
+- 📄 Know about my experiences [https://nsum.netlify.app/NikoSumcadResume.pdf](https://github.com/niko-sum/Portfolio-Website/blob/main/Niko%20Sumcad%20Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
