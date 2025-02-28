@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niko</h1>
-<h3 align="center">Former animation industry creative turned web developer</h3>
+<h3 align="center">Web developer with an animation industry background</h3>
 
 - 👨‍💻 All of my projects are available at [https://nsum.netlify.app/](https://nsum.netlify.app/)
 
